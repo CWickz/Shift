@@ -1,34 +1,19 @@
-# my-health-timer
+# SHIFT v1.0 🏎️
+A high-performance Pomodoro timer built with Electron, React, and TypeScript. 
 
-An Electron application with React and TypeScript
+### 🛠️ Tech Stack
+- **Engine**: Electron (Main Process)
+- **UI**: React + TypeScript (Renderer Process)
+- **Styling**: Glassmorphism CSS + Oswald Typography
+- **Animations**: Framer Motion / CSS Cubic-Bezier
 
-## Recommended IDE Setup
+### ⚡ Key Features
+- **Automotive UI**: Inspired by JDM instrument clusters.
+- **Custom Soundscape**: Includes boot-up intro and session alerts.
+- **Frameless Dragging**: Custom title bar implementation with `-webkit-app-region`.
+- **Adaptive Modes**: Real-time CSS transitions between Focus and Rest states.
 
-- [VSCode](https://code.visualstudio.com/) + [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) + [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-
-## Project Setup
-
-### Install
-
-```bash
-$ npm install
-```
-
-### Development
-
-```bash
-$ npm run dev
-```
-
-### Build
-
-```bash
-# For windows
-$ npm run build:win
-
-# For macOS
-$ npm run build:mac
-
-# For Linux
-$ npm run build:linux
-```
+### 🚀 How to Run
+1. `npm install`
+2. `npm run dev`
+3. Build for Win: `npm run build:win`
