@@ -13,7 +13,13 @@ A high-performance Pomodoro timer built with Electron, React, and TypeScript.
 - **Frameless Dragging**: Custom title bar implementation with `-webkit-app-region`.
 - **Adaptive Modes**: Real-time CSS transitions between Focus and Rest states.
 
-### 🚀 How to Run
+### 📥 Download & Installation
+To run the pre-compiled desktop application without setting up the development environment, download the standalone installer executable here:
+
+👉 **[Download SHIFT v1.0.0 Setup for Windows (Google Drive)]((https://drive.google.com/file/d/1YVKgCvr7ZFOYZyuqr0jGhSix7h4uIUL7/view?usp=drive_link))**
+
+### 🚀 How to Run (Development)
+If you want to build or modify the project from source:
 1. `npm install`
 2. `npm run dev`
 3. Build for Win: `npm run build:win`
