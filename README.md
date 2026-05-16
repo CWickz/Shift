@@ -16,7 +16,7 @@ A high-performance Pomodoro timer built with Electron, React, and TypeScript.
 ### 📥 Download & Installation
 To run the pre-compiled desktop application without setting up the development environment, download the standalone installer executable here:
 
-👉 **[Download SHIFT v1.0.0 Setup for Windows (Google Drive)]((https://drive.google.com/file/d/1YVKgCvr7ZFOYZyuqr0jGhSix7h4uIUL7/view?usp=drive_link))**
+👉 **[Download SHIFT v1.0.0 Setup for Windows (Google Drive)](https://drive.google.com/file/d/1YVKgCvr7ZFOYZyuqr0jGhSix7h4uIUL7/view?usp=drive_link)**
 
 ### 🚀 How to Run (Development)
 If you want to build or modify the project from source:
